@@ -407,8 +407,7 @@ function init() {
 	// world
 
 	var imgTexture = new THREE.TextureLoader().load(
-		"test.jpg",
-		//"mountain.png",
+		"marc-wieland-K6a8laaDdsA-unsplash.jpg",
 		rebuildScene
 	);
 
